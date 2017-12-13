@@ -27,13 +27,6 @@ namespace HelloWorldTest
             this.View.AddSubview(c.View);
         }
 
-        public override void AwakeFromNib()
-        {
-            base.AwakeFromNib();
-
-            ((AppDelegate)NSApplication.SharedApplication.Delegate).MainViewController = this;
-        }
-
         public override NSObject RepresentedObject
         {
             get

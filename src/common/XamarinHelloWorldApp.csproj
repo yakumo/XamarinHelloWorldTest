@@ -6,5 +6,18 @@
 
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="2.5.0.121934" />
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="BookshelfListPage.xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="source.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="source.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <IncludeInPackage>false</IncludeInPackage>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>

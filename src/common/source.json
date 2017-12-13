@@ -1,0 +1,71 @@
+﻿[
+  {
+    "Name": "本棚1",
+    "Titles": [
+      {
+        "Name": "恋は雨上がりのように",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000092995/VOLUME/100000929950001.jpg"
+      }, {
+        "Name": "ポーの一族 ～春の夢～",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000131637/VOLUME/100001316370001.jpg"
+      }, {
+        "Name": "勇者が死んだ！",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000095623/VOLUME/100000956230001.jpg"
+      }, {
+        "Name": "オオカミ王子の言うとおり",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000098744/VOLUME/100000987440001.jpg"
+      }, {
+        "Name": "ハイキュー！！",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000055867/VOLUME/100000558670001.jpg"
+      }
+    ]
+  }, {
+    "Name": "男性コミック",
+    "Titles": [
+      {
+        "Name": "銀魂",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000056558/VOLUME/100000565580001.jpg"
+      },
+      {
+        "Name": "マギ",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000049039/VOLUME/100000490390001.jpg"
+      },
+      {
+        "Name": "Helck",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000079899/VOLUME/100000798990001.jpg"
+      },
+      {
+        "Name": "エデンの処女",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000139066/VOLUME/100001390660001.jpg"
+      },
+      {
+        "Name": "宝石の国",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000064901/VOLUME/100000649010001.jpg"
+      }
+    ]
+  }, {
+    "Name": "女性コミック",
+    "Titles": [
+      {
+        "Name": "少女革命ウテナ",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000000419/VOLUME/100000004190001.jpg"
+      },
+      {
+        "Name": "かわいいひと",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000097150/VOLUME/100000971500001.jpg"
+      },
+      {
+        "Name": "雷神とリーマン",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000103896/VOLUME/100001038960001.jpg"
+      },
+      {
+        "Name": "うそつきな結婚",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000130861/VOLUME/100001308610001.jpg"
+      },
+      {
+        "Name": "君は唇から毒を盛る",
+        "Thumbnail": "https://www.cmoa.jp/data/image/title/title_0000076059/VOLUME/100000760590001.jpg"
+      }
+    ]
+  }
+]
